@@ -9,7 +9,7 @@
 [![Coffee](https://img.shields.io/badge/COFFEE-NECESSARY%20EVIL-4C1D95?style=for-the-badge)](#)
 
 [![Live Terminal](https://img.shields.io/badge/🖥️%20LIVE%20TERMINAL-LAUNCH-A78BFA?style=for-the-badge&logoColor=white)](https://elkanshine.github.io/elkanshine/terminal.html)
-![Profile Views](https://komarev.com/ghpvc/?username=elkanshine&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=elkanshine&color=7c3aed&style=for-the-badge&logoColor=white=visitors)
 
 </div>
 
