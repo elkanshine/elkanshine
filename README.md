@@ -40,16 +40,16 @@
 ## `// ☠️ SYSTEM SKILLS MATRIX`
 
 ```txt
-╔══════════════════════════════════════════════════════╗
-║              SKILL DIAGNOSTIC REPORT                 ║
-╠══════════════════════════════════════════════════════╣
+╔═════════════════════════════════════════════════════════════╗
+║              SKILL DIAGNOSTIC REPORT                        ║
+╠═════════════════════════════════════════════════════════════╣
 ║  PYTHON        [██████████░░]  90%  :: core exec layer      ║
-║  REACT NATIVE  [████████░░░░]  75%  :: mobile dim bridge     ║
-║  DEBUGGING     [████████████] 100%  :: anomaly detection ON  ║
-║  AUTOMATION    [█████████░░░]  85%  :: task elimination ON   ║
-║  COFFEE        [████████████] 100%  :: fuel injection done   ║
-║  PATIENCE      [░░░░░░░░░░░░]  10%  :: UNSTABLE RESOURCE     ║
-╚══════════════════════════════════════════════════════╝
+║  REACT NATIVE  [████████░░░░]  75%  :: mobile dim bridge    ║
+║  DEBUGGING     [████████████] 100%  :: anomaly detection ON ║
+║  AUTOMATION    [█████████░░░]  85%  :: task elimination ON  ║
+║  COFFEE        [████████████] 100%  :: fuel injection done  ║
+║  PATIENCE      [░░░░░░░░░░░░]  10%  :: UNSTABLE RESOURCE    ║
+╚═════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -115,25 +115,25 @@ if works_on_my_machine():
 ## `// 🖥️ LIVE TERMINAL STATUS`
 
 ```bash
-╔══════════════════════════════════════════╗
-║    [ SYSTEM MONITOR — NODE 01 ]          ║
-╠══════════════════════════════════════════╣
-║  CPU USAGE       : 37%   ▂▃▄▅▆▇         ║
-║  MEMORY USAGE    : 68%   ▅▆▇█            ║
-║  DISK I/O        : 21%   ▂▂▃             ║
-║  NETWORK LATENCY : 12ms  STABLE          ║
-║  SLEEP THREAD    : DISABLED              ║
-║  BUG ACTIVITY    : HIGH (3 NEW)          ║
-║  COFFEE LEVEL    : CRITICAL ☕☕☕        ║
-║  STATUS          : STABLE (UNSTABLE LOGIC DETECTED) ║
-║  MODE            : DEVELOPER NIGHT SHIFT    ║
-║  SECURITY LEVEL  : UNKNOWN               ║
-╠══════════════════════════════════════════╣
-║  [ ALERT ] anomaly detected in /dev/reality         ║
-║  [ INFO  ] attempting auto-fix...                   ║
-║  [ WARN  ] fix may cause additional bugs            ║
-║  [ OK    ] process continued anyway                 ║
-╚══════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════╗
+║    [ SYSTEM MONITOR — NODE 01 ]                        ║
+╠════════════════════════════════════════════════════════╣
+║  CPU USAGE       : 37%   ▂▃▄▅▆▇                    ║
+║  MEMORY USAGE    : 68%   ▅▆▇█                       ║
+║  DISK I/O        : 21%   ▂▂▃                        ║  
+║  NETWORK LATENCY : 12ms  STABLE                        ║
+║  SLEEP THREAD    : DISABLED                            ║
+║  BUG ACTIVITY    : HIGH (3 NEW)                        ║
+║  COFFEE LEVEL    : CRITICAL ☕☕☕                   ║
+║  STATUS          : STABLE (UNSTABLE LOGIC DETECTED)    ║
+║  MODE            : DEVELOPER NIGHT SHIFT               ║
+║  SECURITY LEVEL  : UNKNOWN                             ║
+╠════════════════════════════════════════════════════════╣
+║  [ ALERT ] anomaly detected in /dev/reality            ║
+║  [ INFO  ] attempting auto-fix...                      ║
+║  [ WARN  ] fix may cause additional bugs               ║
+║  [ OK    ] process continued anyway                    ║
+╚════════════════════════════════════════════════════════╝
 ```
 
 ---
