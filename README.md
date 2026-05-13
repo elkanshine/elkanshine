@@ -27,22 +27,6 @@ I build software that solves real-world problems through automation, backend sys
 - Firebase
 - API Integration
 
-## Featured Projects
-### Laundry POS App
-Desktop management system built with Python
-
-### Music CLI Tool
-Terminal-based music player
-
-### Mobile Apps
-Building modern Android/iOS apps using React Native
-
-## Current Focus
-- Scaling Python backend systems  
-- Building better mobile experiences  
-- Creating useful software products  
-
-
 ---
 ### Connect
 GitHub: https://github.com/elkanshine
