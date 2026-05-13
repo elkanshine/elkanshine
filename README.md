@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Elkan%20Solihin%20%7C%20Full%20Stack%20Developer" alt="Typing SVG" /></a>
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&width=500&lines=I'm+a+Human%2C+Developer+and+Full-time+Bug+Negotiator)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elkanshine) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dakabrain) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elkanshine) 
 
@@ -10,10 +8,10 @@
 ---
 
 ## 🚀 About Me
-- 🐍 Building backend systems with Python
-- 📱 Creating mobile apps with React Native
-- ⚡ Love automation & CLI tools
-- 🔥 Always learning new technologies
+- 🐍 Python developer by day, bug hunter by night
+- 📱 React Native enjoyer, cross-platform survivor
+- ⚡ Automating things because clicking is tiring
+- 🔥 Turning coffee into code since yesterday
 
 ---
 
