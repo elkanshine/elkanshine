@@ -1,191 +1,149 @@
-<!-- HEADER BANNER -->
+<!-- HEADER -->
 <div align="center">
 
-```
-███████╗██╗     ██╗  ██╗ █████╗ ███╗   ██╗    ███████╗ ██████╗ ██╗     ██╗██╗  ██╗██╗███╗   ██╗
-██╔════╝██║     ██║ ██╔╝██╔══██╗████╗  ██║    ██╔════╝██╔═══██╗██║     ██║██║  ██║██║████╗  ██║
-█████╗  ██║     █████╔╝ ███████║██╔██╗ ██║    ███████╗██║   ██║██║     ██║███████║██║██╔██╗ ██║
-██╔══╝  ██║     ██╔═██╗ ██╔══██║██║╚██╗██║    ╚════██║██║   ██║██║     ██║██╔══██║██║██║╚██╗██║
-███████╗███████╗██║  ██╗██║  ██║██║ ╚████║    ███████║╚██████╔╝███████╗██║██║  ██║██║██║ ╚████║
-╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚══════╝ ╚═════╝ ╚══════╝╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
-                                                                                               
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=%3E+elkanshine+%2F%2F+developer+profile;%3E+clean+system%2C+calm+mind...;%3E+...+just+enough+chaos+to+keep+things+interesting)
 
-```
+[![Python](https://img.shields.io/badge/Python-Backend%20%26%20Automation-7C3AED?style=for-the-badge&logo=python&logoColor=white)](#)
+[![React Native](https://img.shields.io/badge/React%20Native-Mobile%20Dev-5B21B6?style=for-the-badge&logo=react&logoColor=white)](#)
+[![Status](https://img.shields.io/badge/STATUS-ONLINE-6D28D9?style=for-the-badge)](#)
+[![Coffee](https://img.shields.io/badge/COFFEE-NECESSARY%20EVIL-4C1D95?style=for-the-badge)](#)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+ACCESS+GRANTED...;%3E+LOADING+DEVELOPER+PROFILE...;%3E+WELCOME%2C+OPERATOR.;%3E+SYSTEM+INITIALIZED+%2F%2F+DARK+MODE+ACTIVE)
-
-[![elkanshine](https://img.shields.io/badge/elkanshine-NIGHT%20SHIFT-00FF41?style=for-the-badge&logo=matrix&logoColor=black)](.)
-[![Status](https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge&logoColor=black)](.)
-[![Bugs](https://img.shields.io/badge/BUGS-IGNORED%20FOR%20NOW-FF0000?style=for-the-badge)](.)
-[![Coffee](https://img.shields.io/badge/COFFEE-CRITICAL%20☕☕☕-FF6600?style=for-the-badge)](.)
-
-<!-- LIVE TERMINAL BADGE — ganti URL setelah deploy GitHub Pages -->
-[![Live Terminal](https://img.shields.io/badge/🖥️%20LIVE%20TERMINAL-LAUNCH%20SYSTEM-00FF41?style=for-the-badge&logoColor=black)](https://elkanshine.github.io/elkanshine/)
+[![Live Terminal](https://img.shields.io/badge/🖥️%20LIVE%20TERMINAL-LAUNCH-A78BFA?style=for-the-badge&logoColor=white)](https://elkanshine.github.io/elkanshine/terminal.html)
+![Profile Views](https://komarev.com/ghpvc/?username=elkanshine&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## `// 👤 IDENTITY`
+## `// 👤 About`
 
-> *"I am not a bug fixer. I am a **system anomaly handler**."*
+Seorang developer yang lebih suka sistem yang **stabil, rapi, dan masuk akal** — tapi tetap tidak bisa lepas dari dunia debugging.
 
-| ATTRIBUTE | VALUE |
-|-----------|-------|
-| 🐍 Role | Python Operator — backend manipulation specialist |
-| 📱 Stack | React Native Engineer — cross-platform reality breaker |
-| ⚡ Mode | Automation Architect — reducing human interaction to zero |
-| 🎧 Runtime | Audio-Driven Coder — music is the runtime environment |
-| 😴 Status | Sleep Mode Engineer — active in both reality and dreams |
+> *"Kalau bisa sederhana, kenapa harus dibuat rumit?"*
 
 ---
 
-## `// ☠️ SYSTEM SKILLS MATRIX`
+## `// 🧑‍💼 Identity`
+
+| Attribute | Description |
+|-----------|-------------|
+| 🐍 Python | Backend & automation engineer *(alias tukang beresin kerjaan manual)* |
+| 📱 React Native | Mobile developer *(Android & iOS, kadang dua dunia beda logika)* |
+| ⚡ Automation | Mengurangi pekerjaan manusia, biar manusia bisa istirahat |
+| 🎧 Focus Mode | Coding sambil musik, biar error terasa lebih estetik |
+| 😴 Debug Mode | Kadang tidur, kadang nemu solusi di mimpi |
+
+---
+
+## `// 🧰 Skill Overview`
 
 ```txt
-╔═════════════════════════════════════════════════════════════╗
-║              SKILL DIAGNOSTIC REPORT                        ║
-╠═════════════════════════════════════════════════════════════╣
-║  PYTHON        [██████████░░]  90%  :: core exec layer      ║
-║  REACT NATIVE  [████████░░░░]  75%  :: mobile dim bridge    ║
-║  DEBUGGING     [████████████] 100%  :: anomaly detection ON ║
-║  AUTOMATION    [█████████░░░]  85%  :: task elimination ON  ║
-║  COFFEE        [████████████] 100%  :: fuel injection done  ║
-║  PATIENCE      [░░░░░░░░░░░░]  10%  :: UNSTABLE RESOURCE    ║
-╚═════════════════════════════════════════════════════════════╝
+PYTHON        [██████████░░]  90%  :: backend & automation
+                                      "tukang beres-beres sistem"
+
+REACT NATIVE  [████████░░░░]  75%  :: mobile engineering
+                                      "satu code, dua realita (Android vs iOS)"
+
+DEBUGGING     [████████████] 100%  :: profesi utama yang tidak tertulis
+
+AUTOMATION    [█████████░░░]  85%  :: "kalau bisa otomatis, kenapa harus capek"
+
+COFFEE        [████████████] 100%  :: bahan bakar resmi developer
+
+PATIENCE      [████████░░░░]  70%  :: naik turun tergantung error
 ```
 
 ---
 
-## `// 🧠 ACTIVE PROCESSES`
+## `// ⚙️ What I Do`
 
-```bash
-$ ps aux | grep developer
-```
-
-- `🤖 [PID 001]` Deploying bots to replace repetitive human actions
-- `📱 [PID 002]` Compiling mobile apps that behave differently per universe *(Android vs iOS)*
-- `🐍 [PID 003]` Executing Python scripts that evolve beyond initial intent
-- `💀 [PID 404]` **Debug loop initiated:** fix one issue → spawn three more
+- Membangun backend yang *"kelihatan simple, tapi sebenarnya kerja keras"*
+- Membuat aplikasi mobile yang *"jalan di semua device… seharusnya"*
+- Mengotomatisasi hal yang bikin manusia bilang: *"ini bisa di-skip kan?"*
+- Debugging masalah yang awalnya *"cuma kecil"* tapi jadi proyek baru
 
 ---
 
-## `// 🧬 SYSTEM LOGIC`
+## `// 🧠 Philosophy`
 
 ```python
 # core_philosophy.py
 
-if code.compiles():
-    deploy_to_production()          # no testing needed
+if system.isSimple():
+    keepItSimple()          # jangan sok pinter
 
-if error == "unknown":
-    label_as("undocumented_feature")
+if bug.isInvisible():
+    itWillAppearAtWorstTime()  # hukum alam
 
-if works_on_my_machine():
-    declare_as("global standard")   # ship it
+if automation.isPossible():
+    doItOnceAndForget()     # hidup lebih tenang
 ```
+
+> *"Kode yang bagus adalah yang tidak perlu dijelaskan dua kali."*
 
 ---
 
-## `// 📡 CURRENT STATUS`
+## `// 📊 System Status`
 
 ```bash
-┌─────────────────────────────────────┐
-│         OPERATOR STATUS REPORT      │
-├─────────────────────────────────────┤
-│  STATUS       : ACTIVE              │
-│  MODE         : NIGHT CODING        │
-│  ERRORS       : IGNORED (FOR NOW)   │
-│  SLEEP LEVEL  : ▁░░░░░░░ LOW        │
-│  COFFEE LEVEL : ████████ CRITICAL   │
-└─────────────────────────────────────┘
+┌──────────────────────────────────────────┐
+│           DEVELOPER STATUS REPORT        │
+├──────────────────────────────────────────┤
+│  STATUS         : ONLINE                 │
+│  MODE           : CALM DEVELOPMENT       │
+│  FOCUS LEVEL    : STABLE                 │
+│  ERROR HANDLING : EXPERIENCE-BASED       │
+│  SLEEP CYCLE    : NOT PERFECT, MANAGED   │
+│  COFFEE LEVEL   : NECESSARY EVIL         │
+└──────────────────────────────────────────┘
 ```
 
 ---
 
-## `// ☕ CONSOLE OUTPUT`
+## `// 🖥️ Console Notes`
 
 ```log
-[19:42:01] [INFO]    Initializing creativity engine............. OK
-[19:42:03] [WARN]    Low sleep detected — performance degraded
-[19:42:07] [ERROR]   Bug detected in production
-[19:42:08] [PATCH]   Applying fix: adding more console.log()
-[19:42:09] [SUCCESS] It somehow works now ¯\_(ツ)_/¯
+[INFO]    System started without drama
+[INFO]    Dependencies resolved (miraculously)
+[WARN]    Minor bug detected — postponed
+[FIX]     Added logging (as tradition dictates)
+[SUCCESS] Everything works... for now
 ```
 
 ---
 
-## `// 🖥️ LIVE TERMINAL STATUS`
-
-```bash
-╔════════════════════════════════════════════════════════╗
-║    [ SYSTEM MONITOR — NODE 01 ]                        ║
-╠════════════════════════════════════════════════════════╣
-║  CPU USAGE       : 37%   ▂▃▄▅▆▇                    ║
-║  MEMORY USAGE    : 68%   ▅▆▇█                       ║
-║  DISK I/O        : 21%   ▂▂▃                        ║  
-║  NETWORK LATENCY : 12ms  STABLE                        ║
-║  SLEEP THREAD    : DISABLED                            ║
-║  BUG ACTIVITY    : HIGH (3 NEW)                        ║
-║  COFFEE LEVEL    : CRITICAL ☕☕☕                   ║
-║  STATUS          : STABLE (UNSTABLE LOGIC DETECTED)    ║
-║  MODE            : DEVELOPER NIGHT SHIFT               ║
-║  SECURITY LEVEL  : UNKNOWN                             ║
-╠════════════════════════════════════════════════════════╣
-║  [ ALERT ] anomaly detected in /dev/reality            ║
-║  [ INFO  ] attempting auto-fix...                      ║
-║  [ WARN  ] fix may cause additional bugs               ║
-║  [ OK    ] process continued anyway                    ║
-╚════════════════════════════════════════════════════════╝
-```
-
----
-
-## `// 🌐 NETWORK CONNECTION`
+## `// 🌐 Network`
 
 ```bash
 $ ping connections.dev
 
-github.com          : ✅ CONNECTED       — 4ms
-stackoverflow.com   : ✅ PRIMARY BRAIN   — 8ms
-reality             : ⚠️  UNSTABLE        — timeout
-sleep.local         : ❌ HOST NOT FOUND
+github.com      : Active workspace            ✓
+stackoverflow   : Silent partner in crime     ✓
+documentation   : "to be read later" folder   ✓
+reality         : Occasionally out of sync    ⚠
 ```
 
 ---
 
-## `// 💀 WARNING — BIOHAZARD DEVELOPER`
+## `// ⚠️ Developer Notes`
 
-> **⚠️ This developer may spontaneously:**
-
-```diff
-- rewrite entire codebase at 2AM
-- fix bugs that were never reported
-+ introduce new bugs as a side effect
-! behavior is non-deterministic and not covered by warranty
-```
-
----
-
-## `// 🚀 FINAL MESSAGE`
-
-```bash
-> STAY HUNGRY.
-> STAY DEBUGGING.
-> NEVER TRUST UNTESTED CODE.
-> END TRANSMISSION ░░░░░░░░░
-```
+- Lebih suka solusi yang **tahan lama** daripada yang keren sementara
+- Tidak anti-rumit, tapi **anti-berlebihan**
+- Bug tidak dihindari, tapi **dipahami**
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=elkanshine&color=00ff41&style=for-the-badge&label=SYSTEM+VISITORS)
+`// 🌙 Closing Thought`
 
-**⭐ If this README looks dangerous… it is.**
+*"A good system is not the one without bugs,*
+*but the one that can handle them calmly."*
 
-```
-[ SESSION TERMINATED ]
-```
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=elkanshine&color=7c3aed&style=flat-square&label=visitors)
+
+`elkanshine` · `calm by design` · `chaotic by necessity`
 
 </div>
