@@ -14,10 +14,13 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+ACCESS+GRANTED...;%3E+LOADING+DEVELOPER+PROFILE...;%3E+WELCOME%2C+OPERATOR.;%3E+SYSTEM+INITIALIZED+%2F%2F+DARK+MODE+ACTIVE)
 
-[![Matrix Rain](https://img.shields.io/badge/MODE-DEVELOPER%20NIGHT%20SHIFT-00FF41?style=for-the-badge&logo=matrix&logoColor=black)](.)
+[![elkanshine](https://img.shields.io/badge/elkanshine-NIGHT%20SHIFT-00FF41?style=for-the-badge&logo=matrix&logoColor=black)](.)
 [![Status](https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge&logoColor=black)](.)
 [![Bugs](https://img.shields.io/badge/BUGS-IGNORED%20FOR%20NOW-FF0000?style=for-the-badge)](.)
 [![Coffee](https://img.shields.io/badge/COFFEE-CRITICAL%20☕☕☕-FF6600?style=for-the-badge)](.)
+
+<!-- LIVE TERMINAL BADGE — ganti URL setelah deploy GitHub Pages -->
+[![Live Terminal](https://img.shields.io/badge/🖥️%20LIVE%20TERMINAL-LAUNCH%20SYSTEM-00FF41?style=for-the-badge&logoColor=black)](https://elkanshine.github.io/elkanshine/)
 
 </div>
 
