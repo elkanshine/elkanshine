@@ -15,7 +15,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/elkanshine)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/elkanshine)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge)](YOUR_PORTFOLIO)
 
